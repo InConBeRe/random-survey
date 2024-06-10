@@ -8,7 +8,8 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://www.ntu.edu.tw',
+	'https://www.nccu.edu.tw',
+	'https://www.ndhu.edu.tw',
+	'https://www.ncyu.edu.tw',
 ];
