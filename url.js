@@ -8,7 +8,7 @@
 
 
 const urls = [
-	'https://www.ntu.edu.tw',
+	'https://www.ucla.edu',
 	'https://www.nccu.edu.tw',
 	'https://www.ndhu.edu.tw',
 	'https://www.ncyu.edu.tw',
