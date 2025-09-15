@@ -8,8 +8,8 @@
 
 
 const urls = [
-	'https://www.ucla.edu',
-	'https://www.nccu.edu.tw',
-	'https://www.ndhu.edu.tw',
-	'https://www.ncyu.edu.tw',
+	'https://www.surveycake.com/s/RroNb',
+	'https://www.surveycake.com/s/NNBGy',
+	'https://www.surveycake.com/s/w81kX',
+	'https://www.surveycake.com/s/0GvqV',
 ];
